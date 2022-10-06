@@ -2,7 +2,13 @@
 
 ## Overview
 
-To compete with other e-commerce companies, I created a back end for my website
+To compete with other e-commerce companies, I created a back end for my website.
+
+In the back end I can view, create, update, and delete:
+
+- Products
+- Categories
+- Tags
 
 ## Installation:
 
