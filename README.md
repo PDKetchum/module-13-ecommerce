@@ -20,9 +20,7 @@ In terminal
 
 GitHub URL: https://github.com/PDKetchum/module-13-ecommerce
 
-Walk-through video:
-
-## Credits:
+Walk-through video: https://drive.google.com/file/d/1q81lrtHG6wh9-92sQWlUmVhjgTKMQSeM/view
 
 ![](screenshot.png)
 _Screenshot of page_
